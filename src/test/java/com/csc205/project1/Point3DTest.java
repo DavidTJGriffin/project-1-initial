@@ -40,7 +40,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * - Equality and hash code contracts
  * - Null handling and error conditions
  *
- * @author David Rodriguez
+ * @author David Griffin
  * @version 1.0
  * @since 2026-01-27
  */

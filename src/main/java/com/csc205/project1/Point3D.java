@@ -31,7 +31,7 @@ import java.util.logging.Level;
  * - Rotation matrices and quaternion-based transformations
  * - Dot and cross products for geometric computations
  *
- * @author David Rodriguez
+ * @author David Griffin
  * @version 1.0
  * @since 2026-01-27
  */

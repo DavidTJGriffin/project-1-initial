@@ -43,7 +43,7 @@ import java.util.Optional;
  * <p><b>Coordinate System:</b> Uses right-handed Cartesian coordinates with
  * standard basis vectors.</p>
  *
- * @author David Rodriguez
+ * @author David Griffin
  * @version 1.0
  * @since 2026-01-27
  */

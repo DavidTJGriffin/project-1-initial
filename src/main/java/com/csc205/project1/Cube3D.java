@@ -67,7 +67,7 @@ import java.util.Collections;
  * - Containment tests: O(1) for axis-aligned cubes
  * - Memory: O(1) base + O(n) for cached collections
  *
- * @author David Rodriguez
+ * @author David Griffin
  * @version 1.0
  * @since 2026-01-27
  */
